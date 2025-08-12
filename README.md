@@ -22,7 +22,7 @@
 ### 环境配置
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/MeterVision.git
+git clone https://github.com/Shiqi-SQ/DigitalMeterReader.git
 cd MeterVision
 
 # 安装依赖
